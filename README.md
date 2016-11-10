@@ -1,2 +1,5 @@
 # Talks
-A repository holding all the talks/lightening talks I have given.
+This repoistory contains all the talks I have given. Each folder corresponds to a talk and contains all the content used in the talk.
+
+## Index
++ EPQ Lightening Talk (07/11/16)
