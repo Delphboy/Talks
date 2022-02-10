@@ -2,4 +2,7 @@
 This repoistory contains all the talks I have given. Each folder corresponds to a talk and contains all the content used in the talk.
 
 ## Index
-+ [EPQ Lightening Talk (07/11/16)] (../EPQ Lightening Talk)
+
+- [EPQ Lightening Talk (07/11/16)](../EPQ Lightening Talk)
+- [C# Bootcamp](../CSharp-Bootcamp)
+- [A Gentle Introduction to Unit Testing](unit-testing/)
